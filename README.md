@@ -33,4 +33,4 @@ There is a notebook available here to showcase work related to the above questio
 3. transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 ## Results<a name="results"></a>
-The main observations of the code are published [here](https://medium.com/@susmitha.gudapati/starbucks-capstone-challenge-7dd19432c481).
+The main observations of the code are published [here](https://medium.com/@sstudentdata/capstone-challenge-on-starbucks-a9261911c3f).
